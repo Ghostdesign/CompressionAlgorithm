@@ -4,7 +4,7 @@
 //
 //  Created by Yann Ouedraogo on 2015-02-08.
 //  Copyright (c) 2015 Yann Ghislain Ouedraogo. All rights reserved.
-//  eyo3005@umoncton.ca A00167123
+//  eyo3005@umoncton.ca 
 
 #include <iostream>
 #include <fstream>
